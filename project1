@@ -1,0 +1,36 @@
+<nav id="navbar" class="nav">
+  <ul class="nav-list">
+    <li> 
+      <a href="#welcome-section">About</a>
+    </li>
+    <li>
+    <a href="#projects">Work</a>
+    </li>
+    <li>
+      <a href="#contact">Contact</a>
+    </li>
+  </ul>
+  </nav>
+
+<section id="welcome-section" class="welcome-section">
+  <h1>Hello I'm Jake</h1>
+  <p>not from State Farm</p>
+  <p>I like cats....but not as much as cats like me!</p>
+  <p>I'm learning how to code</p>
+  <p>How am I doing so far?</p>
+</section>
+
+<section id="projects" class="projects-section">
+  <h2 class="projects-section-header">These are some of my projects</h2>
+  
+  <div class="projects-grid">
+    <a
+       href="https://codepen.io/stevemuir6/pen/ExyYBpv"
+       target="_blank"
+       class="project project-tile"
+       >
+      <img
+           class="project-image"
+           src="Screen Shot 2020-10-21 at 3.17.57 PM.png"
+           alt="project"
+           />
